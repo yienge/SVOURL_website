@@ -1,4 +1,6 @@
 SVOURL_website
 ==============
 
-a URL shortener website implemented by python tornado framework and mysql and placed at https://bitbucket.org/SmallUrl/smallurl
+A URL shortener website implemented with python tornado framework and mysql.
+
+Placed at https://bitbucket.org/SmallUrl/smallurl
